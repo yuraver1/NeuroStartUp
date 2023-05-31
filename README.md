@@ -1,7 +1,11 @@
-# 4 items about me
+# NeuroStartUp
 
-- I love sport
-- I love good food
-- I love traveling
-- I study in Netology
-- I want to sleep
+![](./logo.png)
+
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
+ новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
